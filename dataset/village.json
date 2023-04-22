@@ -1,0 +1,41 @@
+[
+    {
+        "nom": "Keur Ndiaye Lo",
+        "region": "Dakar",
+        "department": "Rufisque"
+        
+    },
+    {
+        "nom": "Kounoune",
+        "region": "Dakar",
+        "department": "Rufisque" 
+    },
+    {
+        "nom": "Niaga Ouolof",
+        "region": "Dakar",
+        "department": "Rufisque" 
+    },
+    {
+        "nom": "Niaga Peul",
+        "region": "Dakar",
+        "department": "Rufisque" 
+    },
+    {
+        "nom": "Noflaye",
+        "region": "Dakar",
+        "department": "Rufisque" 
+    },
+    {
+        "nom": "Toubab Dialo",
+        "region": "Dakar",
+        "department": "Rufisque" 
+    },
+    {
+        "nom": "Diogane",
+        "region": "Fatick",
+        "department": "Foundiougne" 
+    }
+
+
+
+]
