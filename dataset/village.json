@@ -34,6 +34,21 @@
         "nom": "Diogane",
         "region": "Fatick",
         "department": "Foundiougne" 
+    },
+    {
+        "nom": "Djifer",
+        "region": "Fatick",
+        "department": "Fatick" 
+    },
+    {
+        "nom": "Djilasse",
+        "region": "Fatick",
+        "department": "Fatick" 
+    },
+    {
+        "nom": "Djilor",
+        "region": "Fatick",
+        "department": "Foundiougne" 
     }
 
 
