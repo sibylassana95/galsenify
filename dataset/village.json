@@ -533,6 +533,10 @@
         "region": "Matam"
     },
     {
+        "nom":"Verma",
+        "region":"Matam"
+    },
+    {
         "nom": "Boké Dialloubé",
         "region": "Saint-Louis"
     },
@@ -734,6 +738,34 @@
     },
     {
         "nom": "Yaféra",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Gandé",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Galladé",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Aroundou",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Golmy",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Kounghani",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Manael",
+        "region": "Tambancounda"
+    },
+    {
+        "nom": "Yelingara",
         "region": "Tambancounda"
     },
     {
